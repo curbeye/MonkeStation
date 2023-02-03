@@ -100,6 +100,14 @@
 	unique_pet = TRUE
 	speak = list("barks!", "woofs!", "Walter", "firetrucks", "monstertrucks")
 
+/mob/living/simple_animal/pet/dog/bullterrier/johnwalter
+	name = "John Walter" //This is my FIRST code :DDDDDDDDDDD
+	real_name = "John Walter"
+	gender = MALE
+	desc = "They call me John Walter. I am ballin"
+	gold_core_spawnable = FRIENDLY_SPAWN
+	speak = list("wienerraid!", "kenny is op", "fallout 5", "freakin' monstertrucks dude!")
+
 /mob/living/simple_animal/pet/dog/corgi/exoticcorgi
 	name = "Exotic Corgi"
 	desc = "As cute as it is colorful!"

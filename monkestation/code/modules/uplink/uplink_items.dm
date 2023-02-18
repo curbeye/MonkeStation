@@ -30,7 +30,7 @@
 	item = /obj/item/storage/box/syndie_kit/imp_hard_spear
 	cost = 10
 
-/datum/uplink_item/bearserum
+/datum/uplink_item/device_tools/bearserum
 	name = "Werebear Serum"
 	desc = "This serum made by BEAR Co (A group of very wealthy bears) will give other species the chance to be bear."
 	item = /obj/item/bearserum
